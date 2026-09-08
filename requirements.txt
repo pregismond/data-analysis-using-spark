@@ -1,2 +1,2 @@
 findspark==2.0.1
-pyspark==3.4.3
+pyspark~>3.4.4
